@@ -1,0 +1,38 @@
+{
+    "manifest": {
+        "author": "3tris#0841",
+        "name": "Hunter theme",
+        "version": "1.0.0"
+    },
+    "background": {
+        "url": "https:\/\/cdn.discordapp.com\/attachments\/862304483928047648\/914223965659082803\/PicsArt_11-27-07.38.25.jpg"
+    },
+    "fonts": {},
+    "simple_colors": {
+        "accent": 1525081830,
+        "mention_highlight": -8355712,
+        "statusbar": 1509949440,
+        "background_secondary": 0,
+        "background": 0
+    },
+    "colors": {
+        "link": -15592941,
+        "primary_200": -1644826,
+        "primary_360": -14868961,
+        "primary_dark_100": -14145496,
+        "primary_700": 1736474752,
+        "primary_630": 1737395854,
+        "status_green": -12500155,
+        "uikit_btn_bg_color_selector_green": -1644826,
+        "uikit_btn_bg_color_selector_red": -5000269
+    },
+    "drawable_tints": {
+        "ic_status_online_16dp": -1644826,
+        "ic_status_invisible_16dp": -11906989,
+        "ic_status_idle_16dp": -11184811,
+        "ic_status_dnd_16dp": -8355712,
+        "drawable_overlay_channels_selected_dark": -1960170451,
+        "drawable_overlay_guild_mentions_dark": 2119521621
+    },
+    "raws": {}
+}
